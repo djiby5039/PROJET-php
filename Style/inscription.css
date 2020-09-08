@@ -1,0 +1,27 @@
+body{
+    background: rgb(92, 37, 37);
+}
+form > div > label{
+    color: white;
+
+}
+
+form {
+    background: rgba(128, 128, 128, 0.644);
+    margin: block;
+    width: 500px;
+    height: 700px;
+    margin: auto;
+    margin-top: 130px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-color: chartreuse;
+    text-align: center;
+    color:
+
+
+}
+h1{
+    color: darkblue;
+    text-align: center;
+    text-decoration-style: unset;
+}
